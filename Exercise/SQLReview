@@ -1,0 +1,14 @@
+Ôn tập câu lệnh:
+1. Tạo DATA
+	CREATE DATABASE mydata
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode-ci;
+2. Tạo TABLE
+	CREATE TABLE table_name(
+	colum1 datatype
+	colum2 datatype
+	colum3 datatype
+	...	
+	)
+3.
+	
